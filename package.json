@@ -1,0 +1,9 @@
+{
+  "name": "crazytime-server",
+  "version": "1.0.0",
+  "description": "Authoritative real-time multiplayer Crazy Time server (WebSocket, Firebase wallet, provably fair)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "firebase-admin": "^12.0.0" }
+}
